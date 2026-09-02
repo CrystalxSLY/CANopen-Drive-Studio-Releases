@@ -1,8 +1,9 @@
 {
   "schema": 1,
-  "version": "1.11.0",
-  "package_url": "https://raw.githubusercontent.com/CrystalxSLY/CANopen-Drive-Studio-Releases/main/Updates/CANopenDriveStudio-v1.11.0.cdsupdate",
-  "sha256": "a4bb0fc979142aa97ccebba1870f217385bca4750bf5999b93826b4eb0d3ebac",
+  "version": "1.11.1",
+  "package_url": "https://raw.githubusercontent.com/CrystalxSLY/CANopen-Drive-Studio-Releases/main/Updates/CANopenDriveStudio-v1.11.1.cdsupdate",
+  "sha256": "72835c41c67058e406ba452ad51d1fa521ef528f7b63c9dc28bff795eccc7762",
   "update_page_url": "https://github.com/CrystalxSLY/CANopen-Drive-Studio-Releases/tree/main/Updates",
-  "update_notes": "CANopen Drive Studio 1.11.0 – herstellerunabhängige Aktualisierung für Windows x64."
+  "update_notes": "CANopen Drive Studio 1.11.1 – einmaliges Brückenupdate für nummerierte Aktualisierungen.",
+  "published_at": "2026-09-02T15:04:20.1987376+00:00"
 }
