@@ -5,5 +5,26 @@
   "sha256": "72835c41c67058e406ba452ad51d1fa521ef528f7b63c9dc28bff795eccc7762",
   "update_page_url": "https://github.com/CrystalxSLY/CANopen-Drive-Studio-Releases/tree/main/Updates",
   "update_notes": "CANopen Drive Studio 1.11.1 – einmaliges Brückenupdate für nummerierte Aktualisierungen.",
-  "published_at": "2026-09-02T15:04:20.1987376+00:00"
+  "published_at": "09/02/2026 17:04:20",
+  "numbered_update": {
+    "schema": 1,
+    "version": "1.11.2",
+    "folder_url": "https://raw.githubusercontent.com/CrystalxSLY/CANopen-Drive-Studio-Releases/main/Updates/1.11.2/",
+    "package_sha256": "fedd0ba56dc55922b72060fdc3542ae4269f70adbcb83b7a1b9b92d7ffd085eb",
+    "update_page_url": "https://github.com/CrystalxSLY/CANopen-Drive-Studio-Releases/tree/main/Updates/1.11.2",
+    "update_notes": "CANopen Drive Studio 1.11.2 – nummeriertes, integritätsgeprüftes Vollupdate für Windows x64.",
+    "published_at": "2026-09-23T11:33:49.7353514+00:00",
+    "parts": [
+      {
+        "number": 1,
+        "length": 47185920,
+        "sha256": "e84f1d8a0a7c1593bf099a3410f6d2332014d4a382d9c60e484e606c042c926f"
+      },
+      {
+        "number": 2,
+        "length": 20208453,
+        "sha256": "b3b9a542d78d0a69d8ffb5367344ee0fcc6515e4306cf737e71617d2745b18e1"
+      }
+    ]
+  }
 }
