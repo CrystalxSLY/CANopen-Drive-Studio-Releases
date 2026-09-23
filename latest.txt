@@ -4,6 +4,6 @@
   "package_url": "https://raw.githubusercontent.com/CrystalxSLY/CANopen-Drive-Studio-Releases/main/Updates/CANopenDriveStudio-v1.11.1.cdsupdate",
   "sha256": "72835c41c67058e406ba452ad51d1fa521ef528f7b63c9dc28bff795eccc7762",
   "update_page_url": "https://github.com/CrystalxSLY/CANopen-Drive-Studio-Releases/tree/main/Updates",
-  "update_notes": "Brueckenupdate 1.11.1. Nach dem Neustart erneut nach Updates suchen, um Version 1.11.2 zu installieren.",
+  "update_notes": "Brueckenupdate 1.11.1. Nach dem Neustart erneut nach Updates suchen, um die neueste Version zu installieren.",
   "published_at": "2026-09-23T12:00:00Z"
 }
