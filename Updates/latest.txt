@@ -8,22 +8,22 @@
   "published_at": "09/02/2026 17:04:20",
   "numbered_update": {
     "schema": 1,
-    "version": "1.11.3",
-    "folder_url": "https://raw.githubusercontent.com/CrystalxSLY/CANopen-Drive-Studio-Releases/main/Updates/1.11.3/",
-    "package_sha256": "fae05f7b825a0f78120f3531701ab69e5f395831a86493471fd601cbb1f9e60a",
-    "update_page_url": "https://github.com/CrystalxSLY/CANopen-Drive-Studio-Releases/tree/main/Updates/1.11.3",
-    "update_notes": "CANopen Drive Studio 1.11.3 – nummeriertes, integritätsgeprüftes Vollupdate für Windows x64.",
-    "published_at": "2026-09-23T13:35:27.7425502+00:00",
+    "version": "1.11.4",
+    "folder_url": "https://raw.githubusercontent.com/CrystalxSLY/CANopen-Drive-Studio-Releases/main/Updates/1.11.4/",
+    "package_sha256": "52956ff1585250fa2d2a48ac6a2be78468f743cb6e741db5dfa660a06efb2b07",
+    "update_page_url": "https://github.com/CrystalxSLY/CANopen-Drive-Studio-Releases/tree/main/Updates/1.11.4",
+    "update_notes": "1.11.4: Herstellerneutraler Betriebsartenwechsel, absolute Positionsprüfung (CDS-4003), keine automatische Fault-Quittierung. Verbindungsbeschriftung, Knotennamen, stabile CAN-ID-Sortierung und SDO-Segmentanzeige korrigiert. Bekannte Gerätefehler und ungeklärte absolute Positionsabweichungen sind nicht automatisch behoben. Nicht Authenticode-signiert.",
+    "published_at": "2026-09-24T08:50:51.8256486+00:00",
     "parts": [
       {
         "number": 1,
         "length": 47185920,
-        "sha256": "0b615d682f5502c310ddc0ce404e2487cbbe32f4dcd9bd6033780d7e30b84aff"
+        "sha256": "44c1c48241ed2f87befa677863f1efc407eac0bb49c04a2a24cfc79352ba72ee"
       },
       {
         "number": 2,
-        "length": 20211737,
-        "sha256": "779c24bd18ed18846ec704bead4afe26c30c8b9de29d39f287aa937ef07ec84f"
+        "length": 20215405,
+        "sha256": "c13fa06c90df9b32c092d3f824359338de51b04e846a233a8bf92a0b1b2f9cbc"
       }
     ]
   }
